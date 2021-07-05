@@ -8,7 +8,7 @@ Things that I did during my college days...
   Language: JAVA
 
   A GUI to perform the calculation of various parameters of a microstrip patch antenna design. Made it so that I can avoid doing those long calculations.  
-  (4th semester)
+  
 
 ---------------------
 
@@ -16,8 +16,12 @@ Things that I did during my college days...
 
   Tool: MATLAB
 
-  A piece of code in MATLAB, that helps us to generate e-certificates for events/workshops, provided the participants' names and other customisable details in a   
-  spreadsheet(.xls format).
-  (6th semester)
+  A piece of code in MATLAB, that helps us to generate e-certificates for events/workshops, provided the participants' names and other customisable details in a           spreadsheet(.xls format).
+  
 
----------------------
+--------------------
+
+#3  Work in progress... 
+
+
+--------------------
