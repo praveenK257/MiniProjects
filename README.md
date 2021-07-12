@@ -15,7 +15,7 @@
 
   Tool: MATLAB
 
-    A piece of code in MATLAB, that helps us to generate e-certificates for events/workshops, provided the participants' names and other customisable details in a       spreadsheet(.xls format).
+  A piece of code in MATLAB, that helps us to generate e-certificates for events/workshops, provided the participants' names and other customisable details in a         spreadsheet(.xls format).
   
 
 --------------------
@@ -24,7 +24,7 @@
 
   Language: C
   
-    I have implemented the marble solitaire/peg solitaire game using C. In this game, the users should pick a marble and jump over one marble at a time, with a hope of removing all the marbles from the board, except for one, to be victorious.
+  I have implemented the marble solitaire/peg solitaire game using C. In this game, the users should pick a marble and jump over one marble at a time, with a hope of   removing all the marbles from the board, except for one, to be victorious.
 
 
 --------------------
