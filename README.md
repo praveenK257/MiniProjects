@@ -30,7 +30,9 @@
 --------------------
 
 
-#4  Work in progress... 
-
+#4  Sudoku Solver - GUI
+  Language: Java
+  
+  I have used the backtracking algorithm to solve a 9x9 sudoku puzzle. Also to add that, I used Java Swing to make the GUI to get user input & display the solved puzzle.
 
 --------------------
